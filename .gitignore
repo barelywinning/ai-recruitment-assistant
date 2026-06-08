@@ -7,6 +7,8 @@ env/
 bin/
 lib/
 share/
+__pycache__/
+*.pyc
 
 # Database & Credentials
 *.db
