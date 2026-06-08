@@ -1,0 +1,36 @@
+# Dependencies
+node_modules/
+venv/
+ENV/
+env/
+.venv/
+bin/
+lib/
+share/
+
+# Database & Credentials
+*.db
+*.sqlite3
+.env
+.env.*
+!.env.example
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Build/Dist outputs
+dist/
+build/
+out/
+.next/
+.nuxt/
+
+# IDE files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
